@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.gitignore$
+^README\.md$
+^cran-comments\.md$
+^NEWS\.md$
+^vignettes/(?![^/]+\.asis$)
